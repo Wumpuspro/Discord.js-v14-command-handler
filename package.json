@@ -1,0 +1,23 @@
+{
+  "name": "Npg",
+  "version": "1.0.0",
+  "description": "Bot command handler",
+  "main": "index.js",
+  "dependencies": {
+    "chillout": "^5.0.0",
+    "discord.js": "^14.3.0",
+    "path": "^0.12.7",
+    "plsargs": "^0.1.6",
+    "recursive-readdir": "^2.2.2",
+    "dotenv": "^16.0.2",
+    "stuffs": "^0.1.17"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Npg",
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
